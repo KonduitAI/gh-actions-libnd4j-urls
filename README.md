@@ -9,7 +9,7 @@ The associated bootstrap script that uses the urls in this repo can be found [he
 An individual file in this repo will be used relative to the matrix state:
 1. os
 2. libnd4j helper: (The optional accelerator for convolution operations such as cudnn, onednn, armcompute)
-3. The extension: avx2,avx412
+3. The extension: avx2,avx512
 
 A url will be updated for use with that particular state of a matrix. This should be used only in a manual workflows.
 
